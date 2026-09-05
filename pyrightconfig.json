@@ -1,0 +1,8 @@
+{
+  "venvPath": "Pharm AI Synapse/backend",
+  "venv": ".venv",
+  "extraPaths": [
+    "Pharm AI Synapse/backend",
+    "Pharm AI Synapse/backend/.venv/Lib/site-packages"
+  ]
+}

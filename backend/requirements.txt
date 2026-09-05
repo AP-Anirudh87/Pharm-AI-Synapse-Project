@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+pydantic
+sqlalchemy
+aiosqlite
+httpx
+rdkit
+scikit-learn
+joblib
+Pillow
+python-dotenv==1.0.0
+numpy
+pandas
